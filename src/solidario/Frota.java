@@ -1,4 +1,4 @@
-3+package solidario;
+package solidario;
 
 public class Frota {
 
